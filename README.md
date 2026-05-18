@@ -15,7 +15,9 @@ Signed Up for Cursor and connect it to GitHub
 Downloaded Codex and Claude Code
 Connected Codex to my OpenAI account
 After accessing editor mode, I simply cloned my repository via HTTPS
-Updated this README.md locally then pushed it to GitHub
+Updated this README.md locally, verified GitHub's sudo mode
+Setup username and email, and attempted an initial push to Github
+After a successful sync, updated README.md and pushed again
 
 
 
