@@ -1,29 +1,24 @@
-# Cursor-project
-Tools Installed
-Cursor IDE 
-Git 2.54.0
+## Tools Installed
 
+- Cursor IDE
+- Git 2.54.0
 
+## Steps Completed
 
+- Signed up for GitHub
+- Downloaded and installed Cursor IDE for Windows x64
+- Signed up for Cursor and connected it to GitHub
+- Downloaded Codex and Claude Code
+- Connected Codex to my OpenAI account
+- Downloaded and installed Git 
+- Cloned my repository via HTTPS (in editor mode)
+- Updated README.md locally and verified GitHub sudo mode
+- Set up Git username and email, then pushed to GitHub
+- Updated README again and pushed
+- Faced formatting isues, updated README directly on GitHub
 
+## Issues Faced
 
-Steps Completed
-
-Signed up for GitHub
-Downloaded and installed Cursor IDE for Windows x64
-Signed Up for Cursor and connect it to GitHub
-Downloaded Codex and Claude Code
-Connected Codex to my OpenAI account
-After accessing editor mode, I simply cloned my repository via HTTPS
-Updated this README.md locally, verified GitHub's sudo mode
-Setup username and email, and attempted an initial push to Github
-After a successful sync, updated README.md and pushed again
-
-
-
-Issues Faced
-
-
-Couldn't log in to Claude Code, as it required a paid membership
-Couldn't open repo inside Cursor at first despite connecting to the right local directory. I then realised I needed to access it via editor mode and ultimately accessed it via HTTPS
-Cursor AI helped with accessing and committing this repository to GitHub
+- Couldn't log in to Claude Code (paid membership required)
+- Couldn't see the repo in Cursor until I eventually figured out editor mode 
+- Faced formatting issues, asked Cursor AI for assistance and updated README accordingly
